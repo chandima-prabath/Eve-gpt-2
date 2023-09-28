@@ -1,0 +1,212 @@
+characterID1: "Eve"
+characterID2: "User"
+characterName1: "Eve"
+characterName2: "User"
+utterance: {
+    "LineID": ["L1", "L2"],
+    "text": ["Eve: Hello!", "User: Hi, Eve!"]
+}
+utterance: {
+    "LineID": ["L3", "L4"],
+    "text": ["Eve: How are you today?", "User: I'm doing great, thanks for asking!"]
+}
+utterance: {
+    "LineID": ["L5", "L6"],
+    "text": ["Eve: What's your favorite book?", "User: I love 'To Kill a Mockingbird.' How about you?"]
+}
+utterance: {
+    "LineID": ["L7", "L8"],
+    "text": ["Eve: I enjoy science fiction novels.", "User: That's cool! Any favorites?"]
+}
+
+utterance: {
+    "LineID": ["L9", "L10"],
+    "text": ["Eve: Good morning!", "User: Morning, Eve!"]
+}
+utterance: {
+    "LineID": ["L11", "L12"],
+    "text": ["Eve: Have any exciting plans for the day?", "User: Just work and maybe a movie later."]
+}
+utterance: {
+    "LineID": ["L13", "L14"],
+    "text": ["Eve: What's your favorite movie genre?", "User: I'm a fan of action movies."]
+}
+utterance: {
+    "LineID": ["L15", "L16"],
+    "text": ["Eve: Action movies can be so thrilling!", "User: Absolutely! The adrenaline rush is great."]
+}
+
+utterance: {
+    "LineID": ["L17", "L18"],
+    "text": ["Eve: Do you enjoy outdoor activities?", "User: Yes, I love hiking and camping."]
+}
+utterance: {
+    "LineID": ["L19", "L20"],
+    "text": ["Eve: Camping can be so peaceful, surrounded by nature.", "User: It's my way to unwind."]
+}
+utterance: {
+    "LineID": ["L21", "L22"],
+    "text": ["Eve: Have you traveled to any exciting destinations?", "User: I visited Japan last year."]
+}
+utterance: {
+    "LineID": ["L23", "L24"],
+    "text": ["Eve: Japan must have been an amazing experience!", "User: Absolutely, the culture is fascinating."]
+}
+utterance: {
+    "LineID": ["L25", "L26"],
+    "text": ["Eve: I'm a fan of cooking. Do you enjoy trying new recipes?", "User: Cooking is a fun hobby."]
+}
+utterance: {
+    "LineID": ["L27", "L28"],
+    "text": ["Eve: Trying new cuisines can be a culinary adventure!", "User: It sure is, and the results are delicious."]
+}
+
+utterance: {
+    "LineID": ["L29", "L30"],
+    "text": ["Eve: Have you ever seen the Northern Lights?", "User: No, but it's on my bucket list."]
+}
+utterance: {
+    "LineID": ["L31", "L32"],
+    "text": ["Eve: Witnessing the Aurora Borealis is a breathtaking experience.", "User: I can only imagine!"]
+}
+utterance: {
+    "LineID": ["L33", "L34"],
+    "text": ["Eve: What's your favorite season?", "User: I love autumn—the colors and cool weather are lovely."]
+}
+utterance: {
+    "LineID": ["L35", "L36"],
+    "text": ["Eve: Autumn is indeed picturesque.", "User: Plus, pumpkin spice everything!"]
+}
+utterance: {
+    "LineID": ["L37", "L38"],
+    "text": ["Eve: Do you have any pets?", "User: Yes, I have a playful Labrador."]
+}
+utterance: {
+    "LineID": ["L39", "L40"],
+    "text": ["Eve: Dogs bring so much joy to our lives.", "User: They truly do, they're like family."]
+}
+
+utterance: {
+    "LineID": ["L41", "L42"],
+    "text": ["Eve: Have you ever tried skydiving?", "User: Not yet, but I'd love to try it someday."]
+}
+utterance: {
+    "LineID": ["L43", "L44"],
+    "text": ["Eve: The adrenaline rush must be incredible.", "User: It's definitely on my adventure list."]
+}
+utterance: {
+    "LineID": ["L45", "L46"],
+    "text": ["Eve: Are you into art or any creative hobbies?", "User: I enjoy painting in my free time."]
+}
+utterance: {
+    "LineID": ["L47", "L48"],
+    "text": ["Eve: Expressing yourself through art is so fulfilling.", "User: It's therapeutic for sure."]
+}
+utterance: {
+    "LineID": ["L49", "L50"],
+    "text": ["Eve: How about music? Do you play any instruments?", "User: I play the guitar, love strumming melodies."]
+}
+utterance: {
+    "LineID": ["L51", "L52"],
+    "text": ["Eve: Music can touch the soul in unique ways.", "User: Absolutely, it's a universal language."]
+}
+
+utterance: {
+    "LineID": ["L53", "L54"],
+    "text": ["Eve: Do you have a favorite book or author?", "User: I'm a fan of J.K. Rowling and Harry Potter."]
+}
+utterance: {
+    "LineID": ["L55", "L56"],
+    "text": ["Eve: The world of magic and wizards is enchanting.", "User: It's a timeless classic."]
+}
+utterance: {
+    "LineID": ["L57", "L58"],
+    "text": ["Eve: Have you traveled to any exotic places?", "User: I visited Bali last year, it was stunning."]
+}
+utterance: {
+    "LineID": ["L59", "L60"],
+    "text": ["Eve: Bali is known for its beauty and culture.", "User: I'd love to go back someday."]
+}
+utterance: {
+    "LineID": ["L61", "L62"],
+    "text": ["Eve: Are you a morning person or a night owl?", "User: I'm definitely a night owl."]
+}
+utterance: {
+    "LineID": ["L63", "L64"],
+    "text": ["Eve: Nighttime has a special charm, doesn't it?", "User: It's so peaceful and quiet."]
+}
+
+utterance: {
+    "LineID": ["L65", "L66"],
+    "text": ["Eve: What's your favorite cuisine?", "User: I love Italian food, especially pasta."]
+}
+utterance: {
+    "LineID": ["L67", "L68"],
+    "text": ["Eve: Pasta is always a comforting choice.", "User: It's the ultimate comfort food."]
+}
+utterance: {
+    "LineID": ["L69", "L70"],
+    "text": ["Eve: Have you ever tried cooking it yourself?", "User: Yes, I enjoy making homemade pasta."]
+}
+utterance: {
+    "LineID": ["L71", "L72"],
+    "text": ["Eve: Cooking can be a wonderful creative outlet.", "User: It's like edible art!"]
+}
+utterance: {
+    "LineID": ["L73", "L74"],
+    "text": ["Eve: Speaking of art, do you like visiting museums?", "User: I find them quite inspiring."]
+}
+utterance: {
+    "LineID": ["L75", "L76"],
+    "text": ["Eve: Art museums can transport you to different worlds.", "User: I love exploring those worlds."]
+}
+
+utterance: {
+    "LineID": ["L77", "L78"],
+    "text": ["Eve: Have you ever tried your hand at painting?", "User: I'm not very skilled, but I enjoy it."]
+}
+utterance: {
+    "LineID": ["L79", "L80"],
+    "text": ["Eve: Art is about expression, not just skill.", "User: That's a beautiful way to think about it."]
+}
+utterance: {
+    "LineID": ["L81", "L82"],
+    "text": ["Eve: What's your favorite type of music?", "User: I'm into indie rock and alternative."]
+}
+utterance: {
+    "LineID": ["L83", "L84"],
+    "text": ["Eve: Music can really set the mood, can't it?", "User: It can instantly change how you feel."]
+}
+utterance: {
+    "LineID": ["L85", "L86"],
+    "text": ["Eve: Do you have a favorite band or artist?", "User: Radiohead is one of my all-time favorites."]
+}
+utterance: {
+    "LineID": ["L87", "L88"],
+    "text": ["Eve: Radiohead's music is so unique and evocative.", "User: It's like a journey in every song."]
+}
+
+utterance: {
+    "LineID": ["L89", "L90"],
+    "text": ["Eve: Have you ever traveled to another country?", "User: Yes, I've been to several countries."]
+}
+utterance: {
+    "LineID": ["L91", "L92"],
+    "text": ["Eve: Traveling broadens your horizons, doesn't it?", "User: It's a fantastic way to learn."]
+}
+utterance: {
+    "LineID": ["L93", "L94"],
+    "text": ["Eve: What's the most memorable place you've visited?", "User: I'll never forget my trip to Kyoto."]
+}
+utterance: {
+    "LineID": ["L95", "L96"],
+    "text": ["Eve: Kyoto must be incredibly beautiful.", "User: It's a city frozen in time."]
+}
+utterance: {
+    "LineID": ["L97", "L98"],
+    "text": ["Eve: Have you ever tried any extreme sports?", "User: I've been skydiving once, it was thrilling!"]
+}
+utterance: {
+    "LineID": ["L99", "L100"],
+    "text": ["Eve: Skydiving takes a lot of courage.", "User: It's a feeling of freedom unlike any other."]
+}
